@@ -1,12 +1,11 @@
 # Habit-Tracker-Dashboard
 Client Request: Habit Tracker Dashboard (Excel/Google Sheets)
 
-## Project Title: Build a Custom Habit Tracker With Dashboard & Automated Insights*
+## Project Title: Build a Custom Habit Tracker With Dashboard & Automated Insights
 
 Project Description:
-Hello, my name is dray
-I’m looking for someone to create a simple but professional Habit Tracking system for personal productivity. I want the tracker built in **Excel or Google Sheets** (whichever works best).
-
+### Client Request: 
+Hello, my name is dray, am looking for someone to create a simple but professional Habit Tracking system for personal productivity. I want the tracker built in Excel or Google Sheets (whichever works best).
 The purpose is to track my daily habits easily and get **weekly/monthly insights** about my performance.
 
 
@@ -48,7 +47,7 @@ The tracker should automatically show:
 * Short documentation on how to use it
 * A link or screenshots of the dashboard
 
----
+
 
 # **✔ Additional Notes**
 
